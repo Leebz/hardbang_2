@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\navigation.xml",
+        "source": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\src\\main\\res\\menu\\navigation.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_post_detail.xml",
+        "source": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\src\\main\\res\\menu\\menu_post_detail.xml"
+    }
+]

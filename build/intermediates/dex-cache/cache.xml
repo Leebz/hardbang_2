@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\MyProject\AndroidProject\hardbang_2\app\src\JAR\markdown4j-2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f12c4be69646ee11bed6f1736e189472df520afc">
+        <dex dex="C:\MyProject\AndroidProject\hardbang_2\app\build\intermediates\pre-dexed\debug\markdown4j-2.2_cc9da6af95e2bc7a764197caac2edc17bbb36ab2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\MyProject\AndroidProject\hardbang_2\app\src\JAR\jsoup-1.10.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="61f84a97f1a4f5905547b8b74afff8dc93f4cfce">
+        <dex dex="C:\MyProject\AndroidProject\hardbang_2\app\build\intermediates\pre-dexed\debug\jsoup-1.10.2_a1ab0ce977884061493432c714208110f3f961d5.jar" />
+    </item>
+
+</items>

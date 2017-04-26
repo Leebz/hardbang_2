@@ -1,0 +1,326 @@
+[
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\42910\\.android\\build-cache\\8b07bf1a88562a7dfc92ab8d1cadbc8b122c3d7a\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_dialog_bg.xml",
+        "source": "C:\\Users\\42910\\.android\\build-cache\\cf0681cc89f598a13cba02a029c440a2beb635a7\\output\\res\\drawable\\bmob_update_dialog_bg.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\42910\\.android\\build-cache\\8b07bf1a88562a7dfc92ab8d1cadbc8b122c3d7a\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\md_btn_selector.xml",
+        "source": "C:\\Users\\42910\\.android\\build-cache\\e931f0c21fb4c7b7f91614ea66d679f0d986fb5c\\output\\res\\drawable\\md_btn_selector.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\42910\\.android\\build-cache\\8b07bf1a88562a7dfc92ab8d1cadbc8b122c3d7a\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\message_recyclerview_divider.xml",
+        "source": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\src\\main\\res\\drawable\\message_recyclerview_divider.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\42910\\.android\\build-cache\\8b07bf1a88562a7dfc92ab8d1cadbc8b122c3d7a\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\42910\\.android\\build-cache\\8b07bf1a88562a7dfc92ab8d1cadbc8b122c3d7a\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\title_icon.png",
+        "source": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\src\\main\\res\\drawable\\title_icon.png"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\42910\\.android\\build-cache\\8b07bf1a88562a7dfc92ab8d1cadbc8b122c3d7a\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\42910\\.android\\build-cache\\8b07bf1a88562a7dfc92ab8d1cadbc8b122c3d7a\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\42910\\.android\\build-cache\\8b07bf1a88562a7dfc92ab8d1cadbc8b122c3d7a\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\42910\\.android\\build-cache\\8b07bf1a88562a7dfc92ab8d1cadbc8b122c3d7a\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\42910\\.android\\build-cache\\8b07bf1a88562a7dfc92ab8d1cadbc8b122c3d7a\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_close_bg_selector.xml",
+        "source": "C:\\Users\\42910\\.android\\build-cache\\cf0681cc89f598a13cba02a029c440a2beb635a7\\output\\res\\drawable\\bmob_update_button_close_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\42910\\.android\\build-cache\\8b07bf1a88562a7dfc92ab8d1cadbc8b122c3d7a\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\42910\\.android\\build-cache\\5e96def9726f0b1dd1414811e3e49d899e4f1b21\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_ok_bg_selector.xml",
+        "source": "C:\\Users\\42910\\.android\\build-cache\\cf0681cc89f598a13cba02a029c440a2beb635a7\\output\\res\\drawable\\bmob_update_button_ok_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\42910\\.android\\build-cache\\8b07bf1a88562a7dfc92ab8d1cadbc8b122c3d7a\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\md_item_selected.xml",
+        "source": "C:\\Users\\42910\\.android\\build-cache\\e931f0c21fb4c7b7f91614ea66d679f0d986fb5c\\output\\res\\drawable\\md_item_selected.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\42910\\.android\\build-cache\\8b07bf1a88562a7dfc92ab8d1cadbc8b122c3d7a\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_message_black_24dp.xml",
+        "source": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\src\\main\\res\\drawable\\ic_message_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\42910\\.android\\build-cache\\8b07bf1a88562a7dfc92ab8d1cadbc8b122c3d7a\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\post_list_item_background_normal.xml",
+        "source": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\src\\main\\res\\drawable\\post_list_item_background_normal.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_ok_bg_normal.xml",
+        "source": "C:\\Users\\42910\\.android\\build-cache\\cf0681cc89f598a13cba02a029c440a2beb635a7\\output\\res\\drawable\\bmob_update_button_ok_bg_normal.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\post_recyclerview_divider.xml",
+        "source": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\src\\main\\res\\drawable\\post_recyclerview_divider.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\42910\\.android\\build-cache\\8b07bf1a88562a7dfc92ab8d1cadbc8b122c3d7a\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\42910\\.android\\build-cache\\5e96def9726f0b1dd1414811e3e49d899e4f1b21\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\md_selector.xml",
+        "source": "C:\\Users\\42910\\.android\\build-cache\\e931f0c21fb4c7b7f91614ea66d679f0d986fb5c\\output\\res\\drawable\\md_selector.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\42910\\.android\\build-cache\\8b07bf1a88562a7dfc92ab8d1cadbc8b122c3d7a\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\42910\\.android\\build-cache\\8b07bf1a88562a7dfc92ab8d1cadbc8b122c3d7a\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\42910\\.android\\build-cache\\8b07bf1a88562a7dfc92ab8d1cadbc8b122c3d7a\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\post_list_item_background.xml",
+        "source": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\src\\main\\res\\drawable\\post_list_item_background.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\42910\\.android\\build-cache\\8b07bf1a88562a7dfc92ab8d1cadbc8b122c3d7a\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\42910\\.android\\build-cache\\8b07bf1a88562a7dfc92ab8d1cadbc8b122c3d7a\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_view_list_black_24dp.xml",
+        "source": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\src\\main\\res\\drawable\\ic_view_list_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\42910\\.android\\build-cache\\5e96def9726f0b1dd1414811e3e49d899e4f1b21\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\42910\\.android\\build-cache\\8b07bf1a88562a7dfc92ab8d1cadbc8b122c3d7a\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\42910\\.android\\build-cache\\8b07bf1a88562a7dfc92ab8d1cadbc8b122c3d7a\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\42910\\.android\\build-cache\\8b07bf1a88562a7dfc92ab8d1cadbc8b122c3d7a\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\recyclerview_divider.xml",
+        "source": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\src\\main\\res\\drawable\\recyclerview_divider.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\42910\\.android\\build-cache\\8b07bf1a88562a7dfc92ab8d1cadbc8b122c3d7a\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\42910\\.android\\build-cache\\8b07bf1a88562a7dfc92ab8d1cadbc8b122c3d7a\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\42910\\.android\\build-cache\\8b07bf1a88562a7dfc92ab8d1cadbc8b122c3d7a\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_check_selector.xml",
+        "source": "C:\\Users\\42910\\.android\\build-cache\\cf0681cc89f598a13cba02a029c440a2beb635a7\\output\\res\\drawable\\bmob_update_button_check_selector.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\42910\\.android\\build-cache\\8b07bf1a88562a7dfc92ab8d1cadbc8b122c3d7a\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\42910\\.android\\build-cache\\8b07bf1a88562a7dfc92ab8d1cadbc8b122c3d7a\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\post_list_item_background_pressed.xml",
+        "source": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\src\\main\\res\\drawable\\post_list_item_background_pressed.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\md_transparent.xml",
+        "source": "C:\\Users\\42910\\.android\\build-cache\\e931f0c21fb4c7b7f91614ea66d679f0d986fb5c\\output\\res\\drawable\\md_transparent.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\42910\\.android\\build-cache\\8b07bf1a88562a7dfc92ab8d1cadbc8b122c3d7a\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_ok_bg_focused.xml",
+        "source": "C:\\Users\\42910\\.android\\build-cache\\cf0681cc89f598a13cba02a029c440a2beb635a7\\output\\res\\drawable\\bmob_update_button_ok_bg_focused.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\post_comment_item_background_pressed.xml",
+        "source": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\src\\main\\res\\drawable\\post_comment_item_background_pressed.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\42910\\.android\\build-cache\\5e96def9726f0b1dd1414811e3e49d899e4f1b21\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\42910\\.android\\build-cache\\8b07bf1a88562a7dfc92ab8d1cadbc8b122c3d7a\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\md_btn_selected.xml",
+        "source": "C:\\Users\\42910\\.android\\build-cache\\e931f0c21fb4c7b7f91614ea66d679f0d986fb5c\\output\\res\\drawable\\md_btn_selected.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\42910\\.android\\build-cache\\8b07bf1a88562a7dfc92ab8d1cadbc8b122c3d7a\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\post_comment_item_background.xml",
+        "source": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\src\\main\\res\\drawable\\post_comment_item_background.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\md_btn_selected_dark.xml",
+        "source": "C:\\Users\\42910\\.android\\build-cache\\e931f0c21fb4c7b7f91614ea66d679f0d986fb5c\\output\\res\\drawable\\md_btn_selected_dark.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_cancel_bg_selector.xml",
+        "source": "C:\\Users\\42910\\.android\\build-cache\\cf0681cc89f598a13cba02a029c440a2beb635a7\\output\\res\\drawable\\bmob_update_button_cancel_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_cancel_bg_focused.xml",
+        "source": "C:\\Users\\42910\\.android\\build-cache\\cf0681cc89f598a13cba02a029c440a2beb635a7\\output\\res\\drawable\\bmob_update_button_cancel_bg_focused.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_column_black_24dp.xml",
+        "source": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\src\\main\\res\\drawable\\ic_column_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_cancel_bg_normal.xml",
+        "source": "C:\\Users\\42910\\.android\\build-cache\\cf0681cc89f598a13cba02a029c440a2beb635a7\\output\\res\\drawable\\bmob_update_button_cancel_bg_normal.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\md_btn_selector_dark.xml",
+        "source": "C:\\Users\\42910\\.android\\build-cache\\e931f0c21fb4c7b7f91614ea66d679f0d986fb5c\\output\\res\\drawable\\md_btn_selector_dark.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\personal_activity_background.jpg",
+        "source": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\src\\main\\res\\drawable\\personal_activity_background.jpg"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\post_comment_item_background_normal.xml",
+        "source": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\src\\main\\res\\drawable\\post_comment_item_background_normal.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\42910\\.android\\build-cache\\8b07bf1a88562a7dfc92ab8d1cadbc8b122c3d7a\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_share_black_24dp.xml",
+        "source": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\src\\main\\res\\drawable\\ic_share_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\md_selector_dark.xml",
+        "source": "C:\\Users\\42910\\.android\\build-cache\\e931f0c21fb4c7b7f91614ea66d679f0d986fb5c\\output\\res\\drawable\\md_selector_dark.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_black_24dp.xml",
+        "source": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\src\\main\\res\\drawable\\ic_menu_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\42910\\.android\\build-cache\\8b07bf1a88562a7dfc92ab8d1cadbc8b122c3d7a\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_ok_bg_tap.xml",
+        "source": "C:\\Users\\42910\\.android\\build-cache\\cf0681cc89f598a13cba02a029c440a2beb635a7\\output\\res\\drawable\\bmob_update_button_ok_bg_tap.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\post_detail_layout_bottom_bar_background.xml",
+        "source": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\src\\main\\res\\drawable\\post_detail_layout_bottom_bar_background.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\42910\\.android\\build-cache\\8b07bf1a88562a7dfc92ab8d1cadbc8b122c3d7a\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\42910\\.android\\build-cache\\8b07bf1a88562a7dfc92ab8d1cadbc8b122c3d7a\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\42910\\.android\\build-cache\\8b07bf1a88562a7dfc92ab8d1cadbc8b122c3d7a\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\42910\\.android\\build-cache\\8b07bf1a88562a7dfc92ab8d1cadbc8b122c3d7a\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\42910\\.android\\build-cache\\5e96def9726f0b1dd1414811e3e49d899e4f1b21\\output\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\md_item_selected_dark.xml",
+        "source": "C:\\Users\\42910\\.android\\build-cache\\e931f0c21fb4c7b7f91614ea66d679f0d986fb5c\\output\\res\\drawable\\md_item_selected_dark.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_cancel_bg_tap.xml",
+        "source": "C:\\Users\\42910\\.android\\build-cache\\cf0681cc89f598a13cba02a029c440a2beb635a7\\output\\res\\drawable\\bmob_update_button_cancel_bg_tap.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\42910\\.android\\build-cache\\8b07bf1a88562a7dfc92ab8d1cadbc8b122c3d7a\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_wifi_disable.png",
+        "source": "C:\\Users\\42910\\.android\\build-cache\\cf0681cc89f598a13cba02a029c440a2beb635a7\\output\\res\\drawable\\bmob_update_wifi_disable.png"
+    }
+]

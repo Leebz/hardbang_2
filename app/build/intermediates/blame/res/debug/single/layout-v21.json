@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\42910\\.android\\build-cache\\8b07bf1a88562a7dfc92ab8d1cadbc8b122c3d7a\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\42910\\.android\\build-cache\\8b07bf1a88562a7dfc92ab8d1cadbc8b122c3d7a\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\42910\\.android\\build-cache\\8b07bf1a88562a7dfc92ab8d1cadbc8b122c3d7a\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\42910\\.android\\build-cache\\8b07bf1a88562a7dfc92ab8d1cadbc8b122c3d7a\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    }
+]
