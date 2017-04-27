@@ -74,7 +74,8 @@
             android:label="@string/title_activity_post_detail"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity android:name=".activity_personal_info" />
-        <activity android:name=".system_config"></activity>
+        <activity android:name=".system_config" />
+        <activity android:name=".activity_personal_activity"></activity>
     </application>
 
 </manifest>

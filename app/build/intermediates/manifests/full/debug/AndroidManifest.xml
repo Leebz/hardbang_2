@@ -85,6 +85,7 @@
             android:theme="@style/AppTheme.NoActionBar" />
         <activity android:name="com.sukaiyi.hardbang.activity_personal_info" />
         <activity android:name="com.sukaiyi.hardbang.system_config" />
+        <activity android:name="com.sukaiyi.hardbang.activity_personal_activity" />
     </application>
 
 </manifest>

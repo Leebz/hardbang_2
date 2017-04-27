@@ -276,6 +276,10 @@
         "source": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\src\\main\\res\\layout\\activity_system_config.xml"
     },
     {
+        "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_personal_activity.xml",
+        "source": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\src\\main\\res\\layout\\activity_personal_activity.xml"
+    },
+    {
         "merged": "C:\\MyProject\\AndroidProject\\hardbang_2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
         "source": "C:\\Users\\42910\\.android\\build-cache\\8b07bf1a88562a7dfc92ab8d1cadbc8b122c3d7a\\output\\res\\layout\\abc_screen_content_include.xml"
     },
